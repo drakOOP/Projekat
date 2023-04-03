@@ -1,0 +1,13 @@
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Domen.dll
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Sesija.dll
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Domen.pdb
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Sesija.pdb
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

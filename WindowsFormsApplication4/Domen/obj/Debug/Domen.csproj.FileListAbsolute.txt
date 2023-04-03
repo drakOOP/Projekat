@@ -1,0 +1,5 @@
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\Domen\bin\Debug\Domen.dll
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\Domen\bin\Debug\Domen.pdb
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\Domen\obj\Debug\Domen.dll
+C:\Users\TrecaBGD\Desktop\ooooooooooooooooop\WindowsFormsApplication4\Domen\obj\Debug\Domen.pdb
